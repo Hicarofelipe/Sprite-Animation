@@ -6,7 +6,7 @@
 
 int w,h; 
 
-ll 
+
 GLuint buffer[11];
 //GLuint * buffer;
 GLuint * animations[8];
